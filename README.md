@@ -36,7 +36,3 @@ python exercises/predict_output/easy/q01_instance_vs_class_attr.py
 | `concepts/` | One folder per OOP topic (theory + runnable demo) |
 | `exercises/predict_output/` | easy / medium / hard trace questions |
 | `patterns_for_sdet/` | Factory, strategy, page object sketch |
-
-## Related project
-
-Your [learning_project](../learning_project/) already uses inheritance (`LoginPage(BasePage)`), encapsulation (locators), and a driver factory — use it as the live example after this module.
