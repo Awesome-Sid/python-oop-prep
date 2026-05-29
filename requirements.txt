@@ -1,0 +1,2 @@
+# Optional: only if you add pytest smoke tests later
+pytest>=7.0
